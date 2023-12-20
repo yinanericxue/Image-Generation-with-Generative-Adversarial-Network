@@ -1,12 +1,12 @@
-# Image-Generation-with-Generative-Adversarial-Network
+# Image Generation with Generative Adversarial Network
 
 # KL Divergence
 ## https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence
 ## https://towardsdatascience.com/understanding-kl-divergence-f3ddc8dff254
 ![image](https://github.com/yinanericxue/Image-Generation-with-Generative-Adversarial-Network/assets/102645083/02b4614b-c5f3-4150-ae61-953585d263ef)
-#
+##
 ![image](https://github.com/yinanericxue/Image-Generation-with-Generative-Adversarial-Network/assets/102645083/83b5e5d0-549d-4829-a213-894af2da3a1c)
-#
+##
 ![image](https://github.com/yinanericxue/Image-Generation-with-Generative-Adversarial-Network/assets/102645083/223454e6-0494-45b8-8083-743cf77e74b2)
 
 # How to sample random numbers from a distribution
