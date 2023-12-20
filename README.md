@@ -9,11 +9,12 @@
 ##
 ![image](https://github.com/yinanericxue/Image-Generation-with-Generative-Adversarial-Network/assets/102645083/223454e6-0494-45b8-8083-743cf77e74b2)
 
+
+
+
 # How to sample random numbers from a distribution
 ## https://www.quora.com/How-do-you-sample-from-a-probability-density-function-PDF
 ## https://medium.com/mti-technology/how-to-generate-gaussian-samples-347c391b7959
-
-## f is pdf, F is cdf
 ![image](https://github.com/yinanericxue/Image-Generation-with-Generative-Adversarial-Network/assets/102645083/aa719b88-266e-4c9e-8b9b-fe45af3663fe)
 ##
 ![image](https://github.com/yinanericxue/Image-Generation-with-Generative-Adversarial-Network/assets/102645083/438109b3-1122-4b66-b3db-2569d11a794c)
@@ -22,11 +23,10 @@
 
 
 
+
 # Generate a sample - height 
-
-Generate a height from 200 height samples following Pdata(x):
-
-In height space, there are infinite height distributions. The below distribution is simply one of them
+## Generate a height from 200 height samples following Pdata(x):
+## In height space, there are infinite height distributions. The below distribution is simply one of them
 ![image](https://github.com/yinanericxue/Image-Generation-with-Generative-Adversarial-Network/assets/102645083/b28b5457-6725-4975-9939-19c473060a57)
 
 
