@@ -1,8 +1,8 @@
 # Image-Generation-with-Generative-Adversarial-Network
 
 # KL Divergence
-# https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence
-# https://towardsdatascience.com/understanding-kl-divergence-f3ddc8dff254
+## https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence
+## https://towardsdatascience.com/understanding-kl-divergence-f3ddc8dff254
 #
 ![image](https://github.com/yinanericxue/Image-Generation-with-Generative-Adversarial-Network/assets/102645083/02b4614b-c5f3-4150-ae61-953585d263ef)
 #
